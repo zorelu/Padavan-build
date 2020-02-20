@@ -5,9 +5,10 @@ on:
   release:
     types: [published]
   push:
-    tags:
-    - 'v*'
-  #  branches: 
+    branches:
+      - master
+    paths:
+      - 'README #  branches: 
   #    - master
 #  schedule:
 #    - cron: 0 8 * * 5
