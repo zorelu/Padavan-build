@@ -8,7 +8,7 @@ on:
     branches:
       - master
     paths:
-      - 'README #  branches: 
+      - 'README.md' #  branches: 
   #    - master
 #  schedule:
 #    - cron: 0 8 * * 5
